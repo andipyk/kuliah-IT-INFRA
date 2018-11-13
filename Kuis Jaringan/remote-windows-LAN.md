@@ -3,10 +3,10 @@
 ## Pada komputer yang ingin di-remote
 
 Siapkan Catatan untuk mencatat :
-$ Computer-Name => langkah 1 
-$ User-name     => start menu
-$ IPv4 Address  => cmd:ipconfig [Wireless LAN Adapter Wi-fi]
-$ Password (?) harus ada password pada komputer
+* $Computer-Name => langkah 1 
+* $User-name     => start menu
+* $IPv4 Address  => cmd:ipconfig [Wireless LAN Adapter Wi-fi]
+* $Password (?) harus ada password pada komputer
 
 1. Windows Explorer > This PC/My Computer > Properties
 2. Advanced system settings
